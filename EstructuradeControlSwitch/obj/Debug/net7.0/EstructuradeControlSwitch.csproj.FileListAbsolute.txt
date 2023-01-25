@@ -1,0 +1,15 @@
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\bin\Debug\net7.0\EstructuradeControlSwitch.exe
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\bin\Debug\net7.0\EstructuradeControlSwitch.deps.json
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\bin\Debug\net7.0\EstructuradeControlSwitch.runtimeconfig.json
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\bin\Debug\net7.0\EstructuradeControlSwitch.dll
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\bin\Debug\net7.0\EstructuradeControlSwitch.pdb
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.csproj.AssemblyReference.cache
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.AssemblyInfoInputs.cache
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.AssemblyInfo.cs
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.csproj.CoreCompileInputs.cache
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.dll
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\refint\EstructuradeControlSwitch.dll
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.pdb
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\EstructuradeControlSwitch.genruntimeconfig.cache
+C:\Users\master\source\repos\EstructuradeControlSwitch\EstructuradeControlSwitch\obj\Debug\net7.0\ref\EstructuradeControlSwitch.dll
